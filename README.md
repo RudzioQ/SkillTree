@@ -37,8 +37,8 @@
 
 ## 📸 Screenshots
 
-![Dashboard](./screenshots/dashboard.png)
-*Dashboard view with multiple skill trees.*
+![Login page](./screenshots/login.png)
+*Login page with validation.*
 
 ![Skill Tree Editor](./screenshots/editor.png)
 *Drag-and-drop interface for creating and editing skill trees.*
