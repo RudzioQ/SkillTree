@@ -40,9 +40,6 @@
 ![Login page](./screenshots/login.png)
 *Login page with validation.*
 
-![Skill Tree Editor](./screenshots/editor.png)
-*Drag-and-drop interface for creating and editing skill trees.*
-
 ## 📦 Installation
 
 1. **Clone the repository:**
