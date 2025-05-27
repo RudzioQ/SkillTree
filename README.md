@@ -48,5 +48,5 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/RudzioQ/skilltree.git
-   cd skilltree
+   git clone https://github.com/RudzioQ/SkillTree.git
+   cd SkillTree
